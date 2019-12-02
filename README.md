@@ -23,4 +23,4 @@ The bike share system data files are named:
 * washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The bike share data files and guidelines to develop this project was provided by [Udacity](https://www.udacity.com/) in the Nanodegree *Programming for Data Science with Python*.
