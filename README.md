@@ -1,7 +1,7 @@
 ### Date created
-**bikeshare.py** was create on *November 6, 2019*.
+**bikeshare.py** was create on *11/06/2019*
 
-**README.md** was created on *December 2, 2019*.
+**README.md** was created on *12/2/2019*
 
 ### Project Title
 ##### Exploring Bike Share Systems :bike:
