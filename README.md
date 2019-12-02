@@ -7,7 +7,14 @@
 ##### Exploring Bike Share Systems :bike:
 
 ### Description
-Describe what your project is about and what it does
+***Exploring Bike Share Systems*** is a Python program developed to display descriptive statistics data from bike share system databases in three major cities in the United States:
+* Chicago
+* New York City
+* Washington
+
+The *bikeshare.py* offers an interactive experience where the user can filter the data in the Terminal.
+
+> Note: the data available in the bike share system databases was randomly selected for the first six months of 2017.
 
 ### Files used
 Include the files used
