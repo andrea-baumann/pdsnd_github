@@ -17,7 +17,10 @@ The *bikeshare.py* offers an interactive experience where the user can filter th
 > Note: the data available in the bike share system databases was randomly selected for the first six months of 2017.
 
 ### Files used
-Include the files used
+The bike share system data files are named:
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
